@@ -1,4 +1,4 @@
-## Hi there 👋
+![til](./assets/rainyday.gif)
 
 <!--
 **sarpsahinalp/sarpsahinalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
